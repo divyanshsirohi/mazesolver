@@ -28,9 +28,6 @@ You can later compare multiple algorithms (like BFS, DFS, A*, Dijkstra) in the s
 
 ### 📸 Demo Preview
 
-> *(Insert a screenshot or GIF of the maze being solved here)*  
-> *(Use [Peek](https://github.com/phw/peek) or OBS to record)*
-
 ---
 
 ### 🛠️ Tech Stack
