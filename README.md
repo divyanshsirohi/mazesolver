@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-blue.svg" />
   <img src="https://img.shields.io/badge/Tkinter-GUI-green.svg" />
-  <img src="https://img.shields.io/badge/Algorithms-Custom%20Logic-orange.svg" />
 </p>
 
 ---
